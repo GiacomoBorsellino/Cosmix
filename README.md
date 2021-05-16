@@ -91,8 +91,7 @@ N.b. Le immagini e le informazioni inserite sono a puro scopo dimostrativo.
 5.  Usa il plug-in All in One WP Migration per importare il file di Cosmix
 
    ```sh
-   Importa e seleziona il file Cosmix.wpress 
-   presente nella cartella clonata del repository
+   Importa e seleziona il file Cosmix.wpress presente nella cartella clonata del repository
    ```
 
 6. Vai all'url indicato e visiona il sito
