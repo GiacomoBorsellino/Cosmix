@@ -30,7 +30,7 @@
 * Javascript
 * PHP
 * CMS (WordPress)
-* Template Tema Custom
+* Template Theme Custom
 * PhotoShop
 
 ## Utilizzo
