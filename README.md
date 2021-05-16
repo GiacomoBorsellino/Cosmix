@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GiacomoBorsellino/Cosmix">
-    <img src="/Tema/images/cosmix.png" alt="Logo" width="200">
+    <img src="https://raw.githubusercontent.com/GiacomoBorsellino/Cosmix/main/Tema/cosmix/images/cosmix.png?token=AO7GPNMGWRP6YKROBMOZPNLAUDQAM" alt="Logo" width="200">
   </a>
 
   <h3 align="center">Cosmix</h3>
