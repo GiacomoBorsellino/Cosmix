@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/GiacomoBorsellino/Cosmix">
-    <img src="/tema/cosmix/images/logo.png" alt="Logo" width="200">
+    <img src="/Tema/Cosmix/images/logo.png" alt="Logo" width="200">
   </a>
 
   <h3 align="center">Ororo</h3>
