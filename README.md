@@ -2,14 +2,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/GiacomoBorsellino/Cosmix">
-    <img src="/Tema/Cosmix/images/logo.png" alt="Logo" width="200">
+    <img src="/Cosmix/images/logo.png" alt="Logo" width="200">
   </a>
 
-  <h3 align="center">Ororo</h3>
+  <h3 align="center">Cosmix</h3>
 
   <p align="center">
-    Ororo è una single page application creata con lo scopo di dare informazioni relative lo stato dell'aria (AQI) e lo stato meteorologico di una determinata zona/città.
-
+    Cosmix è un sito web creato con WordPress di cui ho creato da zero il <strong>tema</strong>, le componenti grafiche e il codice.
   </p>
 </p>
 
@@ -17,7 +16,7 @@
   <summary><h2 style="display: inline-block">Indice</h2></summary>
   <ol>
     <li><a href="#tecnologieargomenti">Tecnologie/Argomenti</a></li>
-    <li><a href="#api-e-utilizzo">API e utilizzo</a></li>
+    <li><a href="#utilizzo">Utilizzo</a></li>
     <li><a href="#prerequisiti">Prerequisiti</a></li>
     <li><a href="#installazione">Installazione</a></li>
     <li><a href="#contatti">Contatti</a></li>
@@ -29,63 +28,52 @@
 * HTML5
 * CSS
 * Javascript
-* Webpack
-* NPM
-* dotenv
-* API
-* Environment&nbsp;variables
+* PHP
+* CMS (WordPress)
+* PhotoShop
 
-## API e utilizzo
-Per la creazione di Ororo ho utilizzato 2 API: 
-la AQICN e la OpenWeather.
+## Utilizzo
+Cosmix è un sito web su un
 
-La prima estrapola le informazioni relative lo stato dell'aria, definendo la presenza di particolato nocivo.
-
-La seconda restituisce parametri quali temperatura, pressione, umidità, ecc...
-
-L'uso è semplice: basta inserire il nome di una città, o cliccare sul tasto gps, per avere informazioni su questi parametri.
-Se la città non è corretta o non esiste, un disclaimer avvertirà dell'errore.
-
-É possibile provare l'app in modalità produzione a questo link: https://ororo-giacomo-borsellino.netlify.app/
-o provarla in modalità dev, seguendo la sezione <a href="#installazione">Installazione</a>
-
-N.b. É possibile che certe località dispongano dello stato meteorologico e non di quello dell'aria.
+N.b. Le immagini e le informazioni inserite sono a puro scopo dimostrativo.
 
 ## Prerequisiti
 
-* Installare l'ambiente Node.js per poter amministrare npm
-* Git CLI
+* Installare XAMPP (Creerà l'ambiente corretto per avviare MySQL e Apache)
+* Installare il CMS WordPress
 
 ## Installazione
 
 1. Clona il repository
 
    ```sh
-   git clone https://github.com/GiacomoBorsellino/Ororo
+   git clone https://github.com/GiacomoBorsellino/Cosmix
    ```
 
 2. Entra nella cartella
 
    ```sh
-   Cd ororo
+   Cd cosmix
    ```
 
-3. Installa NPM
+3. Scarica e configura XAMPP
 
    ```sh
-   npm install npm@latest -g
-   npm install 
+   Scarica XAMPP (https://www.apachefriends.org/it/index.html)
+   Avvia MySQL e Apache
    ```
 
-4. Cambia file .env.example in .env e inserisci le tue keys
-   (le API richiedono 2 keys per funzionare, richiedile sui siti dedicati).
-[Air Quality Open Data Platform](https://aqicn.org/data-platform/token/#/).
-[Open Weather](https://home.openweathermap.org/).
-
-5. Crea la build
+4. Scarica e configura WordPress
 
    ```sh
-   npm run build
+   Scarica Bitnami (https://bitnami.com/stack/xampp#wordpress)
+   Avvialo
+   ```
+
+5.  Usa il plug-in All in One WP Migration per importare il file di Cosmix
+
+   ```sh
+   Importa e seleziona il file "Cosmix.wpress"
    ```
 
 6. Avvia il progetto in modalità dev
@@ -104,10 +92,10 @@ Giacomo Borsellino - giacomoborsellino at gmail dot it
 
 Profilo Linkedin, per collaborazioni o proposte di lavoro: [Linkedin](https://www.linkedin.com/in/giacomo-borsellino-4039071b7/)
 
-Link all'app: [Ororo](https://ororo-giacomo-borsellino.netlify.app/)
+Link al Tema Cosmix: [Cosmix](https://github.com/GiacomoBorsellino/Cosmix/tree/main/Tema/cosmix)
 
 ## Crediti
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-* [Air Pollution: Real-time Air Quality Index (AQI)](https://aqicn.org/)
-* [Open Weather](https://home.openweathermap.org/)
+* [XAMPP](https://www.apachefriends.org/it/index.html)
+* [WordPress](https://bitnami.com/stack/xampp#wordpress)
