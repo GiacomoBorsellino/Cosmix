@@ -9,7 +9,7 @@
 
   <p align="center">
     Cosmix è un sito web realizzato con il CMS WordPress.
-    Il tema, le grafiche e il codice sono stati realizzati da zero, definendo una struttura quasi al 100% custom. 
+    Il <strong>tema</strong>, le grafiche e il codice sono stati realizzati da zero, definendo una struttura quasi al 100% custom. 
   </p>
 </p>
 
@@ -35,9 +35,9 @@
 * PhotoShop
 
 ## Utilizzo
-Cosmix è un sito web su un ipotetica attività, creato con lo scopo di testare le funzionalità del CMS, creando al contempo un tema custom (visionabile separatamente qui: https://github.com/GiacomoBorsellino/Cosmix/tree/main/Tema/cosmix), strutturando i templates da zero. 
+Cosmix è un sito web su un ipotetica attività commerciale, creato con lo scopo di testare le funzionalità del CMS, realizzare, al contempo, un <strong>tema</strong> custom (visionabile separatamente qui: https://github.com/GiacomoBorsellino/Cosmix/tree/main/Tema/cosmix), e strutturare i templates da zero. 
 
-Il tema è composto da:
+Il <strong>tema</strong> è composto da:
 * Header con Menu
 * Footer con crediti
 * Pagina di default index
@@ -108,7 +108,7 @@ Giacomo Borsellino - giacomoborsellino at gmail dot it
 
 Profilo Linkedin, per collaborazioni o proposte di lavoro: [Linkedin](https://www.linkedin.com/in/giacomo-borsellino-4039071b7/)
 
-Link al Tema Cosmix: [Cosmix](https://github.com/GiacomoBorsellino/Cosmix/tree/main/Tema/cosmix)
+Link al <strong>Tema Cosmix</strong>: [Cosmix](https://github.com/GiacomoBorsellino/Cosmix/tree/main/Tema/cosmix)
 
 ## Crediti
 
