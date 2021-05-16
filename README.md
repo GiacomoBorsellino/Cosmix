@@ -8,7 +8,8 @@
   <h3 align="center">Cosmix</h3>
 
   <p align="center">
-    Cosmix è un sito web creato con WordPress di cui ho creato da zero il <strong>tema</strong>, le componenti grafiche e il codice.
+    Cosmix è un sito web realizzato con il CMS WordPress.
+    Il tema, le grafiche e il codice sono stati realizzati da zero, definendo una struttura quasi al 100% custom. 
   </p>
 </p>
 
