@@ -30,10 +30,27 @@
 * Javascript
 * PHP
 * CMS (WordPress)
+* Template Tema Custom
 * PhotoShop
 
 ## Utilizzo
-Cosmix è un sito web su un
+Cosmix è un sito web su un ipotetica attività, creato con lo scopo di testare le funzionalità del CMS, creando al contempo un tema custom (visionabile separatamente qui: https://github.com/GiacomoBorsellino/Cosmix/tree/main/Tema/cosmix), strutturando i templates da zero. 
+
+Il tema è composto da:
+* Header con Menu
+* Footer con crediti
+* Pagina di default index
+* Pagina dei prodotti con template della pagina singola
+* Pagina degli eventi con template della pagina singola
+* Sezione contatti
+
+Il sito è stato creato implementando dei plugin che ne ampliano/integrano delle funzionalità.
+
+I plugin in questione sono:
+* Contact Form 7 (Aggiunge dei form di contatto)
+* Leaflet (Aggiunge una mappa navigabile che identifica il luogo)
+* Menu images (Permette di integrare delle immagini al menu)
+
 
 N.b. Le immagini e le informazioni inserite sono a puro scopo dimostrativo.
 
@@ -73,14 +90,12 @@ N.b. Le immagini e le informazioni inserite sono a puro scopo dimostrativo.
 5.  Usa il plug-in All in One WP Migration per importare il file di Cosmix
 
    ```sh
-   Importa e seleziona il file "Cosmix.wpress"
+   Importa e seleziona il file Cosmix.wpress presente nella cartella clonata del repository
    ```
 
-6. Avvia il progetto in modalità dev
+6. Vai all'url indicato e visiona il sito
 
-   ```sh
-   npm run dev
-   ```
+N.B. Esistono vari modi di installare e configurare l'ambiente corretto per il CMS, quello mostrato è semplicemente uno dei più immediati. 
 
 ## Licenza
 
