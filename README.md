@@ -12,7 +12,7 @@
     Il <strong>tema</strong>, le grafiche e il codice sono stati realizzati da zero, definendo una struttura quasi al 100% custom. 
   </p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/GiacomoBorsellino/Countercat/main/images/Immagine.jpg" alt="screenshot"   width="80%">
+    <img src="https://raw.githubusercontent.com/GiacomoBorsellino/Cosmix/main/Tema/cosmix/images/Immagine.jpg" alt="screenshot"   width="80%">
   </p>
 </p>
 
